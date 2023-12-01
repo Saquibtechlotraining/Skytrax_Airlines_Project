@@ -135,5 +135,17 @@ As technology and data science methodologies evolve, so too will our project. We
  ## Model View
 ![image](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/4babd2c6-9d31-49bb-ad86-711562e7bf18)
 
+## Tools Used:
+• Scraping - Webscraping
+
+• Programming Language - Python 
+
+• Database - Azure SQL
+
+• Data Extraction - Pyspark
+
+• Data Preprocessing - Pandas
+
+• Data Visualization - Power Bi
 
 
