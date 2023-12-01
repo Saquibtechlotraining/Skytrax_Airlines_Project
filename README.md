@@ -124,5 +124,8 @@ No project is without its challenges and learning experiences. In this subsectio
 #### 5.3 Future Enhancements
 As technology and data science methodologies evolve, so too will our project. We outline potential avenues for future enhancements, including the integration of additional data sources, implementation of more advanced analytics, and exploration of predictive modeling.
 
+ ## Model View
+![image](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/4babd2c6-9d31-49bb-ad86-711562e7bf18)
+
 
 
