@@ -125,14 +125,11 @@ No project is without its challenges and learning experiences. In this subsectio
 As technology and data science methodologies evolve, so too will our project. We outline potential avenues for future enhancements, including the integration of additional data sources, implementation of more advanced analytics, and exploration of predictive modeling.
 
 ### Dashboard View
-![Screenshot 2023-12-01 214152](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/3811f98b-13e3-4fc9-a7b0-62e7cb90bdf7)
+![Screenshot 2023-12-01 222814](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/9b3b3b86-a638-4e28-bb4f-4f989a01da5c)
 
-![Screenshot 2023-12-01 214214](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/31086bd6-6804-4190-9704-e3a957581d97)
+![Screenshot 2023-12-01 222843](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/59d9b151-0a68-4d9d-ac63-6e7cce4c5f93)
 
-![Screenshot 2023-12-01 214225](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/b52e5888-4158-42cf-9249-fec473cd53be)
-
-![Screenshot 2023-12-01 214235](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/e3601c57-b51a-466f-b15e-46105e38ed1c)
-
+![Screenshot 2023-12-01 222923](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/1e48c78a-6657-4bb6-b001-9dff8aa66492)
 
 
  ## Model View
