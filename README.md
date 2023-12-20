@@ -6,7 +6,7 @@ Note:- For this project, I scraped data from the website [Skytrax](https://www.a
 
 ① Sample Data of one airline [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/sample.xlsx)
 
-② Table creation Code [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/table.py)
+② Table Creation Code [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/table.py)
 
 ## Project Overview 
     Background 
@@ -49,7 +49,7 @@ Database Connection Information [Click Here](https://github.com/Saquibtechlotrai
 ## Pipeline 3: Exploratory Data Analysis (EDA) and Advanced Analytics Pipeline
 #### ① Task: Explore data patterns, perform sentiment analysis, and apply advanced analytics techniques.
 #### ② Components:
-##### • Exploratory Data Analysis (Python):
+##### • Exploratory Data Analysis (Pandas):
     • Visualize and summarize the preprocessed data using EDA techniques.
     • Gain insights into passenger sentiments, preferences, and experiences.
  Preprocessing with Pandas Part-1 [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/SkytraxProject_Part-1.ipynb)
@@ -65,17 +65,16 @@ Database Connection Information [Click Here](https://github.com/Saquibtechlotrai
 #### ② Components:
 ##### • For Visualization use Power Bi :
      • After obtaining the final clean data, utilize Power BI for creating interactive and visually appealing dashboards and reports.
-     Power BI allows for seamless visualization of insights, making it easy to 
-     communicate and interpret complex information.
+     • Power BI allows for seamless visualization of insights, making it easy to communicate and interpret complex information.
 
-###### • Business Implications:
+##### • Business Implications:
 ① Translate insights into tangible business strategies.
 ② Explore real-world implications and demonstrate how airlines can optimize operations, refine customer interactions, and devise innovative marketing campaigns based on data-driven insights.
     
-###### • Project Impact Assessment:
+##### • Project Impact Assessment:
 Reflect on how the project contributes to the evolution of the airline industry and fosters a culture of data-driven decision-making.
     
-###### • Lessons Learned:
+##### • Lessons Learned:
 Discuss challenges encountered during the project lifecycle and strategies employed to overcome them.
     
 ###### • Future Enhancements:
