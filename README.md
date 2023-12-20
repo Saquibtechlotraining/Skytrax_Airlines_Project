@@ -30,8 +30,8 @@ The primary objective of our project is to extract meaningful insights from dail
 Extracted Data/ Raw Data : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_All_Airlines_Reviews_data.csv)
     
 ##### • Data Storage (Azure SQL Database):
-    • Integrate with Azure SQL Database for secure and efficient storage.
-    • Ensure data availability, scalability, and robustness for easy retrieval.
+    • Leverage Azure SQL Database, a cloud-based relational database service, for seamless and efficient data management. Collected reviews are securely stored in Azure SQL Database, ensuring data availability, 
+    scalability, and robustness.
 Database Connection Information [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/My%20Azure%20resource_group_admin_%26password.txt)
 
 ### Pipeline 2: Data Processing Pipeline
