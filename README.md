@@ -21,7 +21,7 @@ Key Components - The Skytrax Airline Reviews Analysis Pipeline comprises four cr
 
 ## Skytrax Airlines Project Piplines:-
 ### Pipeline 1: Data Collection Pipeline
-#### ① Task: Collecting airline reviews data from Skytrax.
+#### ① Task: Collecting airlines data from Skytrax.
 #### ② Components:
 ##### • WebScrapping (Python)
     • Utilize advanced web scraping techniques to extract relevant information from the Skytrax website.
