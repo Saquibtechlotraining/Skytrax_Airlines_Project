@@ -61,7 +61,7 @@ Raw Data : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines
 
  Clean Data : [Clean Data](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/Clean_Data/clean_skytrax_data.csv)
 
-## Pipeline 4: Visualization
+## Pipeline 4: Data Visualization
 #### ① Task: Visualization of Clean Data 
 #### ② Components:
 ##### • For Visualization use Power Bi :
