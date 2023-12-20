@@ -11,15 +11,16 @@ Note:- For this project, I scraped data from the website [Skytrax](https://www.a
 ## Project Overview 
     Background 
     Objective 
-    Key Components
 
-Background - In today's rapidly evolving airline industry, customer feedback plays a pivotal role in shaping business strategies. This project centers around harnessing the power of data by collecting and analyzing airline reviews from Skytrax, a leading source of passenger opinions and reviews for airlines worldwide.
+#### ➡ Background -
+In today's rapidly evolving airline industry, customer feedback plays a pivotal role in shaping business strategies. This project centers around harnessing the power of data by collecting and analyzing 
+airline reviews from Skytrax, a leading source of passenger opinions and reviews for airlines worldwide.
 
-Objective - The primary objective of our project is to extract meaningful insights from daily airline reviews, enabling airlines to make data-driven decisions to enhance customer satisfaction, optimize services, and stay competitive in the market.
-
-Key Components - The Skytrax Airline Reviews Analysis Pipeline comprises four crucial stages: data collection, data storage, data processing, and insights generation. Each stage is meticulously designed to ensure the accuracy, integrity, and reliability of the extracted information.
+#### ➡ Objective -
+The primary objective of our project is to extract meaningful insights from daily airline reviews, enabling airlines to make data-driven decisions to enhance customer satisfaction, optimize services, and stay competitive in the market.
 
 ## Skytrax Airlines Project Piplines:-
+➡ Each stage is meticulously designed to ensure the accuracy, integrity, and reliability of the extracted information.
 ### Pipeline 1: Data Collection Pipeline
 #### ① Task: Collecting airlines data from Skytrax.
 #### ② Components:
@@ -60,15 +61,11 @@ Database Connection Information [Click Here](https://github.com/Saquibtechlotrai
  Clean Data : [Clean Data](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/Clean_Data/clean_skytrax_data.csv)
 
 ## Pipeline 4: Results and Insights Pipeline
-#### ① Task: Represent and interpret the results obtained from the analysis.
+#### ① Task: Visualization of using Clean Data 
 #### ② Components:
-##### • Extracted Insights (Structured Presentation):
-    • Organize and present the extracted insights in a structured and actionable manner.
-    • Highlight critical aspects such as service quality, customer satisfaction, and emerging trends.
-
-##### • Visualization of Findings (Graphs, Charts, Maps, Tables etc):
-    • Create visually appealing representations of data to convey complex information concisely.
-    • Showcase various graphs, charts, maps, and tables etc encapsulating the essence of the analyses.
+##### • For Visualization use Power Bi :
+     • After obtaining the final clean data, utilize Power BI for creating interactive and visually appealing dashboards and reports. Power BI allows for seamless visualization of insights, making it easy to 
+     communicate and interpret complex information.
 
 #### • Business Implications:
     • Translate insights into tangible business strategies.
