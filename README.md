@@ -60,28 +60,26 @@ Database Connection Information [Click Here](https://github.com/Saquibtechlotrai
 
  Clean Data : [Clean Data](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/Clean_Data/clean_skytrax_data.csv)
 
-## Pipeline 4: Results and Insights Pipeline
-#### ① Task: Visualization of using Clean Data 
+## Pipeline 4: Visualization
+#### ① Task: Visualization of Clean Data 
 #### ② Components:
 ##### • For Visualization use Power Bi :
-     • After obtaining the final clean data, utilize Power BI for creating interactive and visually appealing dashboards and reports. Power BI allows for seamless visualization of insights, making it easy to 
+     • After obtaining the final clean data, utilize Power BI for creating interactive and visually appealing dashboards and reports.
+     Power BI allows for seamless visualization of insights, making it easy to 
      communicate and interpret complex information.
 
-#### • Business Implications:
-    • Translate insights into tangible business strategies.
-    • Explore real-world implications and demonstrate how airlines can optimize operations, refine customer interactions, and devise innovative marketing campaigns based on data-driven insights.
-
-## Pipeline 5: Conclusion and Reflection
-#### ① Task: Reflect on the impact of the project, lessons learned, and outline future enhancements.
-#### ② Components:
-##### • Project Impact Assessment:
-    • Reflect on how the project contributes to the evolution of the airline industry and fosters a culture of data-driven decision-making.
+###### • Business Implications:
+① Translate insights into tangible business strategies.
+② Explore real-world implications and demonstrate how airlines can optimize operations, refine customer interactions, and devise innovative marketing campaigns based on data-driven insights.
     
-##### • Lessons Learned:
-    • Discuss challenges encountered during the project lifecycle and strategies employed to overcome them.
+###### • Project Impact Assessment:
+Reflect on how the project contributes to the evolution of the airline industry and fosters a culture of data-driven decision-making.
     
-##### • Future Enhancements:
-    • Outline potential avenues for future enhancements, including the integration of additional data sources, implementation of more advanced analytics, and exploration of predictive modeling.
+###### • Lessons Learned:
+Discuss challenges encountered during the project lifecycle and strategies employed to overcome them.
+    
+###### • Future Enhancements:
+Outline potential avenues for future enhancements, including the integration of additional data sources, implementation of more advanced analytics, and exploration of predictive modeling.
 
 
 ### Dashboard View
