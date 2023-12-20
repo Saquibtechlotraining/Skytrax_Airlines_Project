@@ -47,7 +47,7 @@ Raw Data : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines
     • Leverage Pandas for data manipulation and analysis.
     • Clean and transform the CSV-formatted data into a structured format for further analysis.
 
-## Pipeline 3: Exploratory Data Analysis (EDA) and Advanced Analytics Pipeline
+### Pipeline 3: Exploratory Data Analysis (EDA) and Advanced Analytics Pipeline
 #### ① Task: Explore data patterns, perform sentiment analysis, and apply advanced analytics techniques.
 #### ② Components:
 ##### • Exploratory Data Analysis (Pandas):
@@ -61,7 +61,7 @@ Raw Data : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines
 
  Clean Data : [Clean Data](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/Clean_Data/clean_skytrax_data.csv)
 
-## Pipeline 4: Data Visualization
+### Pipeline 4: Data Visualization
 #### ① Task: Visualization of Clean Data 
 #### ② Components:
 ##### • For Visualization use Power Bi :
