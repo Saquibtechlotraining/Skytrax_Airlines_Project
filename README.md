@@ -27,7 +27,6 @@ The primary objective of our project is to extract meaningful insights from dail
 ##### • WebScrapping (Python)
     • Utilize advanced web scraping techniques to extract relevant information from the Skytrax website.
     • Employ cutting-edge technologies to navigate through web pages and transform raw data into a structured format.
-Extracted Data/ Raw Data : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_All_Airlines_Reviews_data.csv)
     
 ##### • Data Storage (Azure SQL Database):
     • Leverage Azure SQL Database, a cloud-based relational database service, for seamless and efficient data management.
@@ -40,7 +39,9 @@ Database Connection Information [Click Here](https://github.com/Saquibtechlotrai
 ##### • Data Extraction with Pyspark (Databricks):
     • Utilize Pyspark for large-scale data analysis and efficient extraction.
     • Store the extracted data in CSV format in the local system.
-[Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/tree/main/Screenshot_Load_data_in_Pyspark)
+Screenshots : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/tree/main/Screenshot_Load_data_in_Pyspark)
+
+Raw Data : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_All_Airlines_Reviews_data.csv)
 
 ##### • Preprocessing with Pandas:
     • Leverage Pandas for data manipulation and analysis.
