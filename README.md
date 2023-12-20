@@ -19,7 +19,7 @@ The primary objective of our project is to extract meaningful insights from dail
 
 ## Skytrax Airlines Project Piplines:-
 ➡ Each stage is meticulously designed to ensure the accuracy, integrity, and reliability of the extracted information.
-### Pipeline 1: Data Collection Pipeline
+### Pipeline 1: Data Collection & Data Storage
 #### ① Task: Collecting airlines data from Skytrax.
 #### ② Components:
 ##### • WebScrapping (Python)
@@ -33,7 +33,7 @@ Database Connection Information [Click Here](https://github.com/Saquibtechlotrai
 
 Table Creation Code [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/table.py)
 
-### Pipeline 2: Data Processing Pipeline
+### Pipeline 2: Data Extraction and Data Preprocessing
 #### ① Task: Process and analyze the collected data to prepare it for insights generation.
 #### ② Components:
 ##### • Data Extraction with Pyspark (Databricks):
@@ -47,7 +47,7 @@ Raw Data : [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines
     • Leverage Pandas for data manipulation and analysis.
     • Clean and transform the CSV-formatted data into a structured format for further analysis.
 
-### Pipeline 3: Exploratory Data Analysis (EDA) and Advanced Analytics Pipeline
+### Pipeline 3: Exploratory Data Analysis (EDA) and Advanced Analytics 
 #### ① Task: Explore data patterns, perform sentiment analysis, and apply advanced analytics techniques.
 #### ② Components:
 ##### • Exploratory Data Analysis (Pandas):
