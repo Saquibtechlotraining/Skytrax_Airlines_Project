@@ -10,7 +10,6 @@ Raw Data [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_P
 
 Clean Data [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/Clean_Data/clean_skytrax_data.csv)
 
-### • Loading Data also in SQL Server Management Studio(SSMS) 
 Table creation Code [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/table.py)
 
 ## TABLE OF CONTENT
