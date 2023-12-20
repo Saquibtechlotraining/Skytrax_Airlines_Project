@@ -6,8 +6,6 @@ Note:- For this project, I scraped data from the website [Skytrax](https://www.a
 
 ① Sample Data of one airline [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/sample.xlsx)
 
-② Table Creation Code [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/table.py)
-
 ## Project Overview 
     Background 
     Objective 
@@ -30,8 +28,10 @@ The primary objective of our project is to extract meaningful insights from dail
     
 ##### • Data Storage (Azure SQL Database):
     • Leverage Azure SQL Database, a cloud-based relational database service, for seamless and efficient data management.
-    • Collected reviews are securely stored in Azure SQL Database, ensuring data availability, scalability, and robustness.
+    • Collected reviews are securely stored in Azure SQL Database in the form of table, ensuring data availability, scalability, and robustness.
 Database Connection Information [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/My%20Azure%20resource_group_admin_%26password.txt)
+
+Table Creation Code [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/table.py)
 
 ### Pipeline 2: Data Processing Pipeline
 #### ① Task: Process and analyze the collected data to prepare it for insights generation.
