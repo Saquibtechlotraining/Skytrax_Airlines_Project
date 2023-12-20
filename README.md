@@ -99,7 +99,7 @@ Outline potential avenues for future enhancements, including the integration of 
 
 • Programming Language - Python 
 
-• Database - Azure SQL
+• Data Storage - Azure SQL Database
 
 • Data Extraction - Pyspark
 
