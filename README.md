@@ -21,7 +21,7 @@ Table creation Code [Click Here](https://github.com/Saquibtechlotraining/Skytrax
 
 ### 2) Data Collection and Storage 
     2.1 Web Scraping from Skytrax Reviews 
-  [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/scraping.py)
+  [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_All_Airlines_Reviews_data.csv)
   
     2.2 Azure SQL Database Integration 
 
