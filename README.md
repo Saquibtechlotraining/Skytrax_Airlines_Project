@@ -95,9 +95,7 @@ Outline potential avenues for future enhancements, including the integration of 
 ![image](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/4babd2c6-9d31-49bb-ad86-711562e7bf18)
 
 ## Tools Used:
-• Scraping - Webscraping
-
-• Programming Language - Python 
+• WebScraping - Python 
 
 • Data Storage - Azure SQL Database
 
