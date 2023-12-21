@@ -2,7 +2,7 @@
 
 Dashboard Link : https://www.novypro.com/project/aviation-fleet-dashboard-airlines--aircrafts-overview-power-bi
 
-Note:- For this project, I scraped data of latest airlines from the website [Skytrax](https://www.airlinequality.com/review-pages/latest-airline-reviews/) of 14th of September, 2023.
+Note:- For this project, I scraped data of latest airlines reviews from the website [Skytrax](https://www.airlinequality.com/review-pages/latest-airline-reviews/) of 14th of September, 2023.
 
 ① Sample Data of one airline [Click Here](https://github.com/Saquibtechlotraining/Skytrax_Airlines_Project/blob/main/Skytrax_Project/sample.xlsx)
 
